@@ -16,8 +16,10 @@ When the search options is introduced, user will get a better experience searchi
 
 
 ## Summary: 
-Drawback
+### Drawback
+
 The source of information is not up-to-date on this web based application.
 
-Recomendations
- We can use scrape technique on most recent data to provide an up-to-date information for the search engine.
+### Recomendations
+
+We can use scrape technique on most recent data to provide an up-to-date information for the search engine.
