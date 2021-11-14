@@ -20,4 +20,4 @@ Drawback
 The source of information is not up-to-date on this web based application.
 
 Recomendations
-1. Use scrape technique on most recent data to provide an up-to-date information for the search engine.
+ We can use scrape technique on most recent data to provide an up-to-date information for the search engine.
